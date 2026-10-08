@@ -12,16 +12,18 @@ Tri::Tri(int at,int bt,int ct) {
 		b = bt;
 		c = ct;
 }
-void Tri::C(int a, int b, int c) {
+void Tri::C() {
 	Tri_C=a + b + c;
+	/*return Tri_C;*/
 }
 
-float Tri::S(int a, int b, int c) {
+float Tri::S() {
 	float n = (a + b + c) / 2.0;
-	return sqrt(n * (n - a) * (n - b) * (n - c));
+	Tri_S = sqrt(n * (n - a) * (n - b) * (n - c));
+	return Tri_S;
 }
 
-int Tri::Istype(int a, int b, int c) {
+int Tri::Istype() {
 	if (a == b && b == c) {
 		return 0; //等边(0)
 	}
@@ -33,6 +35,9 @@ int Tri::Istype(int a, int b, int c) {
 
 void Tri::print() {
 	//后面想
+	cout << "S==" << Tri_S << endl;
+	cout << "C==" << Tri_C << endl;
+	
 }
 
 Tri::~Tri() {
