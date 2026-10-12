@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "实验-2\\x64\\Debug\\Tri.h.obj",
+            "outputs": [
+                "D:\\Visual Studio\\项目\\实验-2\\实验-2\\x64\\Debug\\vc145.pdb",
+                "实验-2\\x64\\Debug\\",
+                "D:\\Visual Studio\\项目\\实验-2\\实验-2\\x64\\Debug\\Tri.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Tri.h",
+                    "source-path": "d:\\visual studio\\项目\\实验-2\\tri.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

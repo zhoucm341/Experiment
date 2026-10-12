@@ -1,0 +1,4 @@
+﻿  正在扫描源以查找模块依赖项...
+  main.cpp
+D:\Visual Studio\项目\实验-2\main.cpp(38,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  实验-2.vcxproj -> D:\Visual Studio\项目\实验-2\x64\Debug\实验-2.exe

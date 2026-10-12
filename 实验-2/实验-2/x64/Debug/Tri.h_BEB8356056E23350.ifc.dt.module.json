@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "实验-2\\x64\\Debug\\Tri.obj",
+            "outputs": [
+                "实验-2\\x64\\Debug\\Tri.h_BEB8356056E23350.ifc.dt.module.json",
+                "实验-2\\x64\\Debug\\Tri.h_BEB8356056E23350.ifc.dt.d.json",
+                "实验-2\\x64\\Debug\\Tri.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio\\项目\\实验-2\\Tri.h",
+                    "source-path": "d:\\visual studio\\项目\\实验-2\\tri.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

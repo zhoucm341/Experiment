@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "实验-2\\x64\\Debug\\Declaration.obj",
+            "outputs": [
+                "实验-2\\x64\\Debug\\Declaration.h_15ECA474871C12F5.ifc.dt.module.json",
+                "实验-2\\x64\\Debug\\Declaration.h_15ECA474871C12F5.ifc.dt.d.json",
+                "实验-2\\x64\\Debug\\Declaration.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\Visual Studio\\项目\\实验-2\\Declaration.h",
+                    "source-path": "d:\\visual studio\\项目\\实验-2\\declaration.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
