@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "实验-3\\x64\\Debug\\Triangle.obj",
+            "outputs": [
+                "实验-3\\x64\\Debug\\Triangle.h.obj.dt.module.json",
+                "实验-3\\x64\\Debug\\Triangle.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

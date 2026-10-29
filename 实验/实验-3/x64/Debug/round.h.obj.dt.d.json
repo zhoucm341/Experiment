@@ -1,0 +1,12 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\visual studio\\项目\\实验\\round.h",
+        "ProvidedModule": "",
+        "Includes": [
+            "d:\\visual studio\\项目\\实验\\graphic.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

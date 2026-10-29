@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Visual Studio\项目\实验\main.cpp(18,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  mode.cpp
+  正在生成代码...
+  实验-3.vcxproj -> D:\Visual Studio\项目\实验\x64\Debug\实验-3.exe
